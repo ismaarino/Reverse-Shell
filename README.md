@@ -1,2 +1,2 @@
-# Simple GoLang Reverse Shell
-## Simple reverse shell using TCP sockets
+# Reverse Shell
+## Simple reverse shell using Go and TCP sockets
